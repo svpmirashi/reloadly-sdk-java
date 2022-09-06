@@ -39,6 +39,7 @@
         <module>java-sdk-authentication</module>
         <module>java-sdk-airtime</module>
         <module>java-sdk-giftcard</module>
+        <module>java-sdk-utility-payment</module>
     </modules>
     <scm>
         <connection>scm:git:https://github.com/reloadly/reloadly-sdk-java.git</connection>
